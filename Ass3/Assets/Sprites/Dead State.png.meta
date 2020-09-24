@@ -1,7 +1,16 @@
 fileFormatVersion: 2
 guid: d7eeb85de2bc448f69895a66434e5647
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6666146018024287849
+    second: Dead State_0
+  - first:
+      213: -716174863022776416
+    second: Dead State_1
+  - first:
+      213: -6963791828320914244
+    second: Dead State_2
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -84,7 +93,70 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Dead State_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 176
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ee8311c78e28c50800000000000000
+      internalID: 6666146018024287849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead State_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 75
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af967ca1c2af06f0800000000000000
+      internalID: -716174863022776416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead State_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 75
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4f9275a34ab5f90800000000000000
+      internalID: -6963791828320914244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

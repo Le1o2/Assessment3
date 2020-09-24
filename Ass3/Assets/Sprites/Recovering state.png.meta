@@ -1,7 +1,13 @@
 fileFormatVersion: 2
 guid: b98e8bc1bb1ff4487b438f8385cb6d46
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3141149630271054396
+    second: Recovering state_0
+  - first:
+      213: 6201083031358976009
+    second: Recovering state_1
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -84,7 +90,49 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Recovering state_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 176
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd1855cd056864d0800000000000000
+      internalID: -3141149630271054396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recovering state_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 48
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900bada892cae0650800000000000000
+      internalID: 6201083031358976009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
