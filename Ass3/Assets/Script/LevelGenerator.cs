@@ -48,7 +48,8 @@ public class LevelGenerator : MonoBehaviour
             for (int j = 0; j < levelMap.GetLength(0); i++)
             {
                 Vector3 vector3 = new Vector3(i, -j, 0);
-                GameObject gameObject = Instantiate(wall[levelMap[j, i]], vector3, Quaternion.identity);
+                int ij = levelMap[j, i];
+                GameObject gameObject = Instantiate(wall[ij], vector3, Quaternion.identity);
 
                 //switch (j)
                 //{
