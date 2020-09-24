@@ -1,7 +1,19 @@
 fileFormatVersion: 2
 guid: 13fe62107e6e24f7186c081072f515fd
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6238026914783287771
+    second: Ghost01 move_0
+  - first:
+      213: 7002757831906773519
+    second: Ghost01 move_1
+  - first:
+      213: -4489121799950022762
+    second: Ghost01 move_2
+  - first:
+      213: 8935198102765326605
+    second: Ghost01 move_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -84,7 +96,91 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Ghost01 move_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 176
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9dbf2bd6ce19650800000000000000
+      internalID: 6238026914783287771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost01 move_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 176
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a43ea552bce2160800000000000000
+      internalID: 7002757831906773519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost01 move_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 48
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974480e18f63b1c0800000000000000
+      internalID: -4489121799950022762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost01 move_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 48
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0152117553300c70800000000000000
+      internalID: 8935198102765326605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

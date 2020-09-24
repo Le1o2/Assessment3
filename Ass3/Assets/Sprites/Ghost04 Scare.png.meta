@@ -1,7 +1,13 @@
 fileFormatVersion: 2
 guid: 567951bebd1344a3c99ec1565f4cd986
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2482046375440681485
+    second: Ghost04 Scare_0
+  - first:
+      213: 6428506615346820888
+    second: Ghost04 Scare_1
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -84,7 +90,49 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Ghost04 Scare_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 176
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5ffc3d8fffd8dd0800000000000000
+      internalID: -2482046375440681485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost04 Scare_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 48
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817fefbf4b4a63950800000000000000
+      internalID: 6428506615346820888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
